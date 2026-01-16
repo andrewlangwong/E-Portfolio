@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:\Users\alw95.stu\Documents\GitHub\E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
+  title: "Andrew Lang Wong"
   navbar:
     left:
       - href: index.qmd
@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: darkley
     css: styles.css
     toc: true
 
